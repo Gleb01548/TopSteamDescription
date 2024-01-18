@@ -159,5 +159,5 @@ CumulYear (cumulative for year) — это нарастающий итог за 
   - Пред. ранг - ранг в предыдущем периоде
 - CumulYear (cumulative for year) — это нарастающий итог за год по состоянию на актуальную дату. Этот итог содержит список **всех** игр, которые когда-либо были в топ100 в текущем году, сколько дней в году они были в топе и какой средний максимум игроков у них был (в тыс.).
 
-пример файла [excel](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/week_data_2024-01-08.xlsx) с информацией за неделю
+Пример файла [excel](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/week_data_2024-01-08.xlsx) с информацией за неделю
  
