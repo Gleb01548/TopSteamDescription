@@ -28,7 +28,7 @@
 **Таблица 1** содержит топ100 самых популярных игр в стиме на определенную дату.
 
 <details>
-![Таблица 1](data/day_table_1.png)
+![Таблица 1](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/day_table_1.png)
 </details>
 
 Таблицы 2-4 формируются путем сравнения таблицы 1 текущего периода с периодом прошлым.
