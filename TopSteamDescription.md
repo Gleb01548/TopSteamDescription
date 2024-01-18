@@ -35,13 +35,13 @@
 <details>
 Например, 02.01.2024 в топ100 самых популярных игр не входил The Elder Scrolls® Online и Counter-Strike, однако 03.01.2024 появились в топе, что отражено в Таблице 2 за 03.01.2024. Также в этой же таблице будет указано максимальное количество игроков, игравших в The Elder Scrolls® Onlin и Counter-Strike 03.01.2024.
 </details>
-[Таблица 2](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/day_table_2.png)
+![Таблица 2](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/day_table_2.png)
 
 **Таблица 3** содержит информацию о том какие игры вышли из топа, в сравнении с прошлым периодом.
 <details>
 Например, 02.01.2024 в топ100 самых популярных игр входили EA SPORTS™ FIFA 23 и Party Animals, однако 03.01.2024 из топа вышли, что отражено в Таблице 3 за 03.01.2024. Также в этой же таблице указано максимальное количество игроков, игравших в EA SPORTS™ FIFA 23 и Party Animals 02.01.2024 и их ранг в эту дату (то есть с каких позиций они вылетели).
 </details>
-[Таблица 3](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/day_table_3.png)
+![Таблица 3](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/day_table_3.png)
 
 **Таблица 4** содержит информации об играх, которые в топе были в прошедшем периоде и остались в актуальном периоде.
 
@@ -93,7 +93,7 @@
 
 Также на скриншоте видно, что People Playground по рейтингу выше, чем Aimlabs. Несмотря на то, что дней в топе у них одинаковое количество. Так происходит, потому что у People Playground выше средний максимум, чем у Aimlabs (7,6 тыс. против 6,6 тыс.).
 </details>
-[Данные за неделю](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/period_2.png) 
+![Данные за неделю](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/period_2.png) 
 
 
 
