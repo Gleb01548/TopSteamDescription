@@ -61,7 +61,7 @@
 Например, 05.01.2024  у Left 4 Dead 2 пиковый онлайн был 44.2 тыс. игроков. А 06.01.2024 пиковый онлайн был уже 54.1 тыс. игроков. Таким образом, показатель «Рост игроков, %» составляет 22.6, а «Макс. игроков, тыс.» 54.1.
 </details>
 
-![Таблица 4](https://github.com/Gleb01548/TopSteamDescription/tree/main/resources)
+![Таблица 4](https://github.com/Gleb01548/TopSteamDescription/blob/main/resources/day_table_4.png)
 
 
 ## Информация за не дневной период (неделю, месяц, год).
